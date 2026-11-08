@@ -1,1 +1,10 @@
-{}
+{
+  "description": "Personnalisez votre fond d’écran selon la personne reconnue, gérez des profils et choisissez une apparence différente pour les visages inconnus.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
